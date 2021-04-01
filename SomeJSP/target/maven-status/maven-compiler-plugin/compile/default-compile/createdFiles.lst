@@ -1,0 +1,8 @@
+com\mycompany\somejsp\DataHandler.class
+com\mycompany\somejsp\LogInHandler.class
+com\mycompany\somejsp\LogOutHandler.class
+com\mycompany\somejsp\DatabaseHandler.class
+com\mycompany\somejsp\FilterJSP.class
+com\mycompany\somejsp\AuthHandler.class
+com\mycompany\somejsp\ViewHandler.class
+com\mycompany\somejsp\City.class
